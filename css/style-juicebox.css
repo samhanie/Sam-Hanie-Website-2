@@ -1,0 +1,22 @@
+button {
+  transition: all 0.5s ease;
+  color: #720e0e;
+  border: 3px solid;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1;
+  font-size: 17px;
+  background-color: #111111;
+  padding: 10px;
+  outline: none;
+  border-radius: 4px;
+}
+button:hover {
+  color: #001f3f;
+  background-color: #fff;
+}
+
+.dvd {
+  background-color: transparent;
+}

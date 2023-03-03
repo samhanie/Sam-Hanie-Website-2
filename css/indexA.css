@@ -18,25 +18,25 @@ body {
 
 .container > div:nth-child(1n) {
   /* pic */
-  background-color: #f50909;
+  background-color: #25ceec;
 }
 
 .container > div:nth-child(3n) {
   /* menu */
-  background-color: #28ef0d;
+  background-color: #77e090;
 }
 
 .container > div:nth-child(2n) {
   /* header */
-  background-color: #181818;
+  background-color: #25ceec;
 }
 
 .container > div:nth-child(4n) {
   /* content */
-  background-color: #ffcc5c;
+  background-color: #25ceec;
 }
 
 .container > div:nth-child(5n) {
   /* footer */
-  background-color: #320cf1;
+  background-color: #25ceec;
 }
